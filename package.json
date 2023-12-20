@@ -12,6 +12,5 @@
     "jspdf": "^2.5.1",
     "parcel": "^2.10.3"
   },
-  "devDependencies": {},
-  "main": "script.js"
+  "devDependencies": {}
 }
