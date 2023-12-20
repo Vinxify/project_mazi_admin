@@ -244,3 +244,23 @@ table {
   height: 100%;
   z-index: -1;
 }
+
+.button {
+  margin: 2rem 0;
+  padding: 0.5rem 1rem;
+  color: currentColor;
+  background-color: #00ffff;
+  border: none;
+  border-radius: 4px;
+
+  text-transform: capitalize;
+
+  transition: all 0.5s;
+}
+
+.button:hover {
+  color: #fff;
+  background-color: rgb(3, 172, 172);
+  transform: translateY(-0.1rem);
+  transform: scale(1.08);
+}
