@@ -1,0 +1,17 @@
+{
+  "name": "admin",
+  "version": "1.0.0",
+  "description": "where admin login",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Babatunde Segun",
+  "license": "ISC",
+  "dependencies": {
+    "jspdf": "^2.5.1",
+    "parcel": "^2.10.3"
+  },
+  "devDependencies": {},
+  "main": "script.js"
+}
